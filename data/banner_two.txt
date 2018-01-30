@@ -1,0 +1,402 @@
+[
+    {
+        "type": "0",
+        "data": [
+            {
+                "img": "//img.alicdn.com/i2/2/T1tzyoXnd3XXb1upjX.jpg",
+                "_pos_": 1,
+                "entityType": "BRAND",
+                "brandid": "99949494",
+                "acm": "03014.1003.1.765824",
+                "id": "99949494",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=761832027&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=1&abbucket=_AB-M65_B0&brandId=99949494&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB12f31JVXXXXcdXpXXSutbFXXX.jpg",
+                "_pos_": 2,
+                "entityType": "BRAND",
+                "brandid": "99906590",
+                "acm": "03014.1003.1.765824",
+                "id": "99906590",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=2811185140&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=2&abbucket=_AB-M65_B0&brandId=99906590&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1lL6xPVXXXXcTXpXXSutbFXXX.jpg",
+                "_pos_": 3,
+                "entityType": "BRAND",
+                "brandid": "99879737",
+                "acm": "03014.1003.1.765824",
+                "id": "99879737",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=1645354849&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=3&abbucket=_AB-M65_B0&brandId=99879737&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1B.inJVXXXXcfXVXXSutbFXXX.jpg",
+                "_pos_": 4,
+                "entityType": "BRAND",
+                "brandid": "99822674",
+                "acm": "03014.1003.1.765824",
+                "id": "99822674",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=644692396&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=4&abbucket=_AB-M65_B0&brandId=99822674&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1KFgvIVXXXXX_apXXSutbFXXX.jpg",
+                "_pos_": 5,
+                "entityType": "BRAND",
+                "brandid": "99735694",
+                "acm": "03014.1003.1.765824",
+                "id": "99735694",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=740820069&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=5&abbucket=_AB-M65_B0&brandId=99735694&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1VcxuJVXXXXXEXpXXSutbFXXX.jpg",
+                "_pos_": 6,
+                "entityType": "BRAND",
+                "brandid": "996908171",
+                "acm": "03014.1003.1.765824",
+                "id": "996908171",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=2647194591&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=6&abbucket=_AB-M65_B0&brandId=996908171&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1ilbUHpXXXXb8XXXXSutbFXXX.jpg",
+                "_pos_": 7,
+                "entityType": "BRAND",
+                "brandid": "9959902",
+                "acm": "03014.1003.1.765824",
+                "id": "9959902",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=1132886103&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=7&abbucket=_AB-M65_B0&brandId=9959902&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1R08RJFXXXXbFXFXXSutbFXXX.jpg",
+                "_pos_": 8,
+                "entityType": "BRAND",
+                "brandid": "995916304",
+                "acm": "03014.1003.1.765824",
+                "id": "995916304",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=2641101981&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=8&abbucket=_AB-M65_B0&brandId=995916304&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1iDgRJpXXXXXbXVXXSutbFXXX.jpg",
+                "_pos_": 9,
+                "entityType": "BRAND",
+                "brandid": "995842573",
+                "acm": "03014.1003.1.765824",
+                "id": "995842573",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=2536501149&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=9&abbucket=_AB-M65_B0&brandId=995842573&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1TJNTPXXXXXcqXVXXSutbFXXX.jpg",
+                "_pos_": 10,
+                "entityType": "BRAND",
+                "brandid": "995656201",
+                "acm": "03014.1003.1.765824",
+                "id": "995656201",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=2653527491&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=10&abbucket=_AB-M65_B0&brandId=995656201&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/TB1pt.lKFXXXXbhXpXXSutbFXXX.jpg",
+                "_pos_": 11,
+                "entityType": "BRAND",
+                "brandid": "99554580",
+                "acm": "03014.1003.1.765824",
+                "id": "99554580",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=679339632&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=11&abbucket=_AB-M65_B0&brandId=99554580&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            },
+            {
+                "img": "//img.alicdn.com/i2/2/T1X8OBXwhcXXal8NYH_!!0.JPG",
+                "_pos_": 12,
+                "entityType": "BRAND",
+                "brandid": "9947804",
+                "acm": "03014.1003.1.765824",
+                "id": "9947804",
+                "scm": "1007.13143.56636.100200300000000",
+                "url": "//store.taobao.com/shop/view_shop.htm?user_number_id=726984974&abtest=_AB-LR65-PR65&pvid=ce8ac780-29b9-4887-92dd-b4d646cf64e4&pos=12&abbucket=_AB-M65_B0&brandId=9947804&acm=03014.1003.1.765824&scm=1007.13143.56636.100200300000000"
+            }
+        ]
+    },
+    {
+        "type": "1",
+        "data": [
+            {
+                "_pos_": 1,
+                "entityType": "OTHER",
+                "link": "https://pages.tmall.com/wow/huanxin/act/refreshment-pc?pos=1&acm=201602246-1.1003.2.1341482&scm=1003.2.201602246-1.OTHER_1506333657682_1341482",
+                "acm": "201602246-1.1003.2.1341482",
+                "_s_": "d",
+                "id": "1506333657682",
+                "scm": "1003.2.201602246-1.OTHER_1506333657682_1341482",
+                "content": "https://img.alicdn.com/imgextra/i3/5/TB296UXppXXXXabXpXXXXXXXXXX_!!5-2-yamato.png?activityId=533&appid=3362"
+            },
+            {
+                "_pos_": 2,
+                "entityType": "OTHER",
+                "link": "https://pages.tmall.com/wow/huanxin/act/mustbuy?pos=2&acm=201602246-2.1003.2.1376243&scm=1003.2.201602246-2.OTHER_1506277521684_1376243",
+                "acm": "201602246-2.1003.2.1376243",
+                "_s_": "d",
+                "id": "1506277521684",
+                "scm": "1003.2.201602246-2.OTHER_1506277521684_1376243",
+                "content": "https://gw.alicdn.com/imgextra/i4/88/TB2igHicr5K.eBjy0FfXXbApVXa_!!88-0-yamato.jpg?activityId=1702&appid=3362&report_date=2016-11-10"
+            },
+            {
+                "_pos_": 3,
+                "entityType": "OTHER",
+                "link": "https://shouji.tmall.com/?pos=3&acm=201602246-3.1003.2.1588785&scm=1003.2.201602246-3.OTHER_1487648502406_1588785",
+                "acm": "201602246-3.1003.2.1588785",
+                "_s_": "d",
+                "id": "1487648502406",
+                "scm": "1003.2.201602246-3.OTHER_1487648502406_1588785",
+                "content": "https://gw.alicdn.com/imgextra/i3/47/TB2DBhcg3xlpuFjSszgXXcJdpXa_!!47-0-yamato.jpg?activityId=52469&positionId=5&appid=3362&report_date=2017-03-07"
+            },
+            {
+                "_pos_": 4,
+                "entityType": "OTHER",
+                "link": "https://ku.tmall.com?pos=4&acm=201602246-4.1003.2.1341508&scm=1003.2.201602246-4.OTHER_1506189887423_1341508",
+                "acm": "201602246-4.1003.2.1341508",
+                "_s_": "d",
+                "id": "1506189887423",
+                "scm": "1003.2.201602246-4.OTHER_1506189887423_1341508",
+                "content": "https://img.alicdn.com/imgextra/i4/5/TB2AZHNsXXXXXbmXXXXXXXXXXXX_!!5-0-yamato.jpg?activityId=1708&appid=3362&report_date=2016-11-01"
+            },
+            {
+                "_pos_": 5,
+                "entityType": "OTHER",
+                "link": "//miao.tmall.com/?pos=5&acm=201602246-5.1003.2.1341520&scm=1003.2.201602246-5.OTHER_1508491591824_1341520",
+                "acm": "201602246-5.1003.2.1341520",
+                "_s_": "d",
+                "id": "1508491591824",
+                "scm": "1003.2.201602246-5.OTHER_1508491591824_1341520",
+                "content": "https://gw.alicdn.com/imgextra/i2/156/TB2G9JLXgCN.eBjSZFoXXXj0FXa_!!156-0-yamato.jpg?activityId=18099&appid=3362&report_date=2016-10-10"
+            }
+        ]
+    },
+    {
+        "type": "2",
+        "data": [
+            {
+                "acookie": "1",
+                "adboardtype": "2",
+                "bannermaker": "",
+                "clickurl": "https://click.mz.simba.taobao.com/ecpm?e=tt63yYr%2BqeIXLEW7MJcS6cMTQVM39%2B0gkkXj8KvazNTdqH%2BaanqO7qUTbel3n8ZXRawk9KKpscmei%2B%2F2iBcarNK4sYjxrAcSUK7RDtIZydUyXElRAMLwowKskFb36qcv2FbgcJCfoVG4kUwnnasahKYlkFWE0%2BkOEcNHJOd%2FtE7SUytAe2ZMND2zGpXyR0bDaaebhPyRBscSciIvcIGqE3a31bYryVjN9KP650OL5GCpcg9zPMPzWhuLROQC%2F1lBnZ%2FbPZqkIydi3sImqi8pbvj7tKtkbNC40ATAnd4eKFJ7T171GAn8d12ZRcnbAFCIJfULlRHzBq3I2USgOIOJgZBEjvs8v7kzkvHJbpn3gQL8ogFG0R59Apsa0pOtVAwm&u=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fid%3D541125159948%26rn%3Da7c84744122359a4aa1dd0ab53f887a3%26abbucket%3D7&k=385",
+                "data": "https://img.alicdn.com/simba/img/TB1NDtpRVXXXXabXVXXSutbFXXX.jpg",
+                "distype": "1",
+                "fvs": "",
+                "height": "155",
+                "pid": "mm_12852562_1778064_48432768",
+                "title": "",
+                "webwidth": "",
+                "width": "250"
+            },
+            {
+                "acookie": "1",
+                "adboardtype": "2",
+                "bannermaker": "",
+                "clickurl": "https://click.mz.simba.taobao.com/ecpm?e=CyDIwc5fNskXLEW7MJcS6cMTQVM39%2B0ggFuQSRbQ9mNt6Mzv5oKy%2F%2BJLfgQ7DpVlRawk9KKpscnEJBfgQI1xoj3%2FBwvaCOnzUK7RDtIZydUyXElRAMLwo3HRAfgh6mDamC0jvvcLy8ImKidpbmdIb21FNZfii25gqoui4oXloFnkhifBkk1ayxjWdlzaNqmWaaebhPyRBsfoxpUaURG%2F4b4dogLu%2FfZH6CkrkgCvVp2z0GwUOeiVHhW17U00GJ%2FXO%2FZKtqlbhZH61uudByhXpOcueyirx4YZkMM7U7dpORef%2FuJHFPzOTakD55%2BXkQS19wOVlymN7t2O9xn9gWe8aHuvpW4wjYBjF%2FJKwqlhXQSh6hAVpcgPg06DO5rNNz%2BU&u=https%3A%2F%2Fnike.tmall.com&k=385",
+                "data": "https://img.alicdn.com/simba/img/TB1naokXZrI8KJjy0FhSuvfnpXa.jpg",
+                "distype": "1",
+                "fvs": "",
+                "height": "155",
+                "pid": "mm_12852562_1778064_48458242",
+                "title": "",
+                "webwidth": "",
+                "width": "250"
+            }
+        ]
+    },
+    {
+        "type": "2",
+        "data": [
+            {
+                "acookie": "1",
+                "adboardtype": "2",
+                "bannermaker": "",
+                "clickurl": "https://jusp.tmall.com/act/sp/global?pos=1&acm=201608180-1.1003.64.1103973&scm=1003.64.201608180-1.OTHER_1511328407875_1103973",
+                "data": "https://img.alicdn.com/tps/i4/TB1CY9GX9RRMKJjy0FlSutFepXa.jpg",
+                "distype": "1",
+                "fvs": "",
+                "height": "155",
+                "pid": "mm_12852562_1778064_48432768",
+                "title": "",
+                "webwidth": "",
+                "width": "250"
+            },
+            {
+                "acookie": "1",
+                "adboardtype": "2",
+                "bannermaker": "",
+                "clickurl": "https://chaoshi.tmall.com/liangfan.htm?pos=2&acm=201608180-2.1003.64.1103983&scm=1003.64.201608180-2.OTHER_1483413695019_1103983",
+                "data": "https://img.alicdn.com/tps/TB1OJ.NPXXXXXc4aXXXXXXXXXXX-502-380.jpg",
+                "distype": "1",
+                "fvs": "",
+                "height": "155",
+                "pid": "mm_12852562_1778064_48458242",
+                "title": "",
+                "webwidth": "",
+                "width": "250"
+            }
+        ]
+    },
+    {
+        "type": "3",
+        "data": [
+            {
+                "trackInfo": "201610103100101;13953900243;121599;541191191191;3;121599_541191191191;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;5;0;0",
+                "activity": "双11食品粮油速食会场",
+                "_pos_": 5,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i2/27/TB2jk7kXRDH8KJjy1zeXXXjepXa_!!27-2-lubanu.png",
+                "activityId": "121599",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100726?wh_weex=true&trackInfo=201610103100101;13953900243;121599;541191191191;3;121599_541191191191;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;5;0;0&item_id=541191191191&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=5&activity_id=121599&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_121599_1276855",
+                "itemList": "541191191191",
+                "id": "121599",
+                "scm": "1003.1.07085.OTHER_121599_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;13953900243;121599;541191191191;3;121599_541191191191;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;5;0;0&scm=1003.1.07085.OTHER_121599_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;14202354013;122126;520946290296;3;122126_520946290296;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;6;0;0",
+                "activity": "天猫服饰-双11-箱包会场",
+                "_pos_": 6,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i3/143/TB2tbs1XwjN8KJjSZFkXXaboXXa_!!143-2-lubanu.png",
+                "activityId": "122126",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100595?wh_weex=true&trackInfo=201610103100101;14202354013;122126;520946290296;3;122126_520946290296;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;6;0;0&item_id=520946290296&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=6&activity_id=122126&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_122126_1276855",
+                "itemList": "520946290296",
+                "id": "122126",
+                "scm": "1003.1.07085.OTHER_122126_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14202354013;122126;520946290296;3;122126_520946290296;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;6;0;0&scm=1003.1.07085.OTHER_122126_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;13824235473;121433;525941842547;3;121433_525941842547;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;7;0;0",
+                "activity": "天猫生鲜-双十一预热-楼敏霞",
+                "_pos_": 7,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i3/91/TB2mSTQXNTI8KJjSspiXXbM4FXa_!!91-2-lubanu.png",
+                "activityId": "121433",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100695?wh_weex=true&trackInfo=201610103100101;13824235473;121433;525941842547;3;121433_525941842547;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;7;0;0&item_id=525941842547&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=7&activity_id=121433&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_121433_1276855",
+                "itemList": "525941842547",
+                "id": "121433",
+                "scm": "1003.1.07085.OTHER_121433_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;13824235473;121433;525941842547;3;121433_525941842547;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;7;0;0&scm=1003.1.07085.OTHER_121433_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;14260635463;122203;558127001440;3;122203_558127001440;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;8;0;0",
+                "activity": "通信-双11-通信预售会场",
+                "_pos_": 8,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i4/2/TB2i6nOX46I8KJjy0FgXXXXzVXa_!!2-2-lubanu.png",
+                "activityId": "122203",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100653?wh_weex=true&trackInfo=201610103100101;14260635463;122203;558127001440;3;122203_558127001440;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;8;0;0&item_id=558127001440&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=8&activity_id=122203&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_122203_1276855",
+                "itemList": "558127001440",
+                "id": "122203",
+                "scm": "1003.1.07085.OTHER_122203_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14260635463;122203;558127001440;3;122203_558127001440;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;8;0;0&scm=1003.1.07085.OTHER_122203_1276855"
+            }
+        ]
+    },
+    {
+        "type": 3,
+        "data": [
+            {
+                "trackInfo": "201610103100101;14206304943;122097;524079312159;3;122097_524079312159;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;1;0;0",
+                "activity": "服饰-双11预热-潮饰精选",
+                "_pos_": 1,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i4/150/TB2TPrsX3fH8KJjy1zcXXcTzpXa_!!150-2-lubanu.png",
+                "activityId": "122097",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100701?wh_weex=true&trackInfo=201610103100101;14206304943;122097;524079312159;3;122097_524079312159;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;1;0;0&item_id=524079312159&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=1&activity_id=122097&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_122097_1276855",
+                "itemList": "524079312159",
+                "id": "122097",
+                "scm": "1003.1.07085.OTHER_122097_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14206304943;122097;524079312159;3;122097_524079312159;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;1;0;0&scm=1003.1.07085.OTHER_122097_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;14206685463;122131;13921193231;3;122131_13921193231;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;2;0;0",
+                "activity": "美妆洗护-双11-家清会场",
+                "_pos_": 2,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i4/182/TB2TMn9X22H8KJjy0FcXXaDlFXa_!!182-2-lubanu.png",
+                "activityId": "122131",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100744?wh_weex=true&trackInfo=201610103100101;14206685463;122131;13921193231;3;122131_13921193231;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;2;0;0&item_id=13921193231&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=2&activity_id=122131&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_122131_1276855",
+                "itemList": "13921193231",
+                "id": "122131",
+                "scm": "1003.1.07085.OTHER_122131_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14206685463;122131;13921193231;3;122131_13921193231;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;2;0;0&scm=1003.1.07085.OTHER_122131_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;14151852653;121995;536856047343;3;121995_536856047343;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;3;0;0",
+                "activity": "家纺家饰会场",
+                "_pos_": 3,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i3/133/TB2wqiTX0nJ8KJjSszdXXaxuFXa_!!133-2-lubanu.png",
+                "activityId": "121995",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100756?wh_weex=true&trackInfo=201610103100101;14151852653;121995;536856047343;3;121995_536856047343;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;3;0;0&item_id=536856047343&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=3&activity_id=121995&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_121995_1276855",
+                "itemList": "536856047343",
+                "id": "121995",
+                "scm": "1003.1.07085.OTHER_121995_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14151852653;121995;536856047343;3;121995_536856047343;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;3;0;0&scm=1003.1.07085.OTHER_121995_1276855"
+            },
+            {
+                "trackInfo": "201610103100101;14201697213;122127;42163918981;3;122127_42163918981;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;4;0;0",
+                "activity": "母婴-双11-尿裤-文元",
+                "_pos_": 4,
+                "entityType": "OTHER",
+                "acm": "07085.1003.1.1276855",
+                "_s_": "d",
+                "benefit": "",
+                "imgUrl": "//gw.alicdn.com/imgextra/i2/23/TB2CNo2XpHM8KJjSZFwXXcibXXa_!!23-2-lubanu.png",
+                "activityId": "122127",
+                "potitionId": "2016101031001",
+                "action": "https://pages.tmall.com/wow/act/18132/industry-100717?wh_weex=true&trackInfo=201610103100101;14201697213;122127;42163918981;3;122127_42163918981;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;4;0;0&item_id=42163918981&pvid=e3b8e19e-538f-46cf-ba61-936aba9e7800&pos=4&activity_id=122127&acm=07085.1003.1.1276855&scm=1003.1.07085.OTHER_122127_1276855",
+                "itemList": "42163918981",
+                "id": "122127",
+                "scm": "1003.1.07085.OTHER_122127_1276855",
+                "contentType": "banner",
+                "exposureParam": "//ac.mmstat.com/1.gif?trackInfo=201610103100101;14201697213;122127;42163918981;3;122127_42163918981;1007.13362.68645.999999999999999;e3b8e19e-538f-46cf-ba61-936aba9e7800;4;0;0&scm=1003.1.07085.OTHER_122127_1276855"
+            }
+        ]
+    }
+]
